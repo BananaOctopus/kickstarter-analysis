@@ -1,4 +1,4 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
-(https://user-images.githubusercontent.com/84158312/123297578-ae315500-d4e5-11eb-9a66-c4a3fd83851a.png)
-h/to/Outcomes Based on Date Launch.png)
+![Outcomes Based on Date Launch](https://user-images.githubusercontent.com/84158312/123297703-d15c0480-d4e5-11eb-922c-b688ccbb5afb.png)
+
